@@ -9,7 +9,7 @@ section{
     width:100%;
     height:100vh;
     color:black;
-    background-image:url(../background/gridnote.png);
+    background-image:url(./gridnote.png);
     background-size:cover;
     display:flex;
     justify-content:center;
